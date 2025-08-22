@@ -81,6 +81,8 @@ Jupyter Notebook (Model Training & Analysis)
 ```
 jupyter notebook
 ```
+
+Terminal
 ```
 python app.py
 ```
